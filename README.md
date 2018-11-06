@@ -2,7 +2,7 @@
 
 # Data Source
 
-This dataset contains Tencent Holdings Limited price from Jan 08, 2018 to Jun 04, 2018 the website starting page:https://finance.yahoo.com/quote/0700.HK/history?period1=1509292800&period2=1528041600&interval=1d&filter=history&frequency=1d
+This dataset contains Tencent Holdings Limited price from Dec 18, 2017 to May 17, 2018 the website starting page:https://finance.yahoo.com/quote/0700.HK/history?period1=1509292800&period2=1528041600&interval=1d&filter=history&frequency=1d
 
 
 
