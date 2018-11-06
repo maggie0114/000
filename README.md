@@ -7,6 +7,7 @@ This dataset contains Tencent Holdings Limited price from Jan 08, 2018 to Jun 04
 
 
 Data fields 
+Date- string.e.g. May 17
 Open int e.g 413	
 High int e.g 415	
 Low float e.g 408.8
@@ -17,7 +18,7 @@ Volume int e.g 31,279,329
 
 
 Volume
-100 rows 6 columns
+100 rows 7 columns
 
 License
 CC 4.0
